@@ -1,5 +1,5 @@
 var redis = require('redis');
-var PubSub = require('sharedb').PubSub;
+var PubSub = require('k-sync').PubSub;
 
 // Redis pubsub driver for ShareDB.
 //
