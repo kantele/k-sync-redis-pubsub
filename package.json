@@ -1,14 +1,11 @@
 {
   "name": "k-sync-redis-pubsub",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Redis pub/sub adapter adapter for ShareDB",
   "main": "index.js",
   "dependencies": {
     "async": "*",
-    "redis": "^2.1.0"
-  },
-  "optionalDependencies": {
-    "hiredis": "^0.4.1"
+    "redis": "^2.6.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.8",
