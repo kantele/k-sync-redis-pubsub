@@ -4,4 +4,4 @@
   [![Build Status](https://travis-ci.org/share/sharedb-redis-pubsub.svg?branch=master)](https://travis-ci.org/share/sharedb-redis-pubsub)
   [![Coverage Status](https://coveralls.io/repos/github/share/sharedb-redis-pubsub/badge.svg?branch=master)](https://coveralls.io/github/share/sharedb-redis-pubsub?branch=master)
 
-Redis pub/sub adapter adapter for ShareDB
+Redis pub/sub adapter adapter for k-sync
